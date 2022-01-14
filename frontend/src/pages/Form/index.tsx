@@ -1,6 +1,6 @@
 import './styles.css';
 
-function Form() {
+function Form(){
 
     const movie = {
         id: 1,
